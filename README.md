@@ -1,4 +1,4 @@
-# nginx-dev-env
+# nginx-adapter-websocket-uri
 
 
 NGINX Adapter WebSocket URI.
